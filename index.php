@@ -8,6 +8,11 @@
 </head>
 <body>
     <h1>Using Git</h1>
-    
+        <?php
+
+        for ($i=0; $i <5 ; $i++) { 
+            echo(" for $i"); 
+           }
+        ?>
 </body>
 </html>
